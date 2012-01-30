@@ -1,0 +1,35 @@
+/*
+THEME NAME: Modified Sandbox theme
+THEME URI: 
+DESCRIPTION: Great theme based on the Sandbox wordpress theme
+VERSION: 1.0
+AUTHOR: <Insert your name here>
+AUTHOR: 
+AUTHOR URI:
+Tags: totally, awesome, like, dude
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+img {
+    border: none;
+}
+
+p {
+    margin: 0;
+}
+
+a {
+    color: #179819;
+}
+
+body {
+    font: 12px Arial;
+    color: #000;
+    
+}
